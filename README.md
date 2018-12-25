@@ -83,7 +83,9 @@ Print the array from task 4 in html table:
 </pre>
 
 ## Table should render like this
-| pizza | main counrse | Italy |
---------------------------------
-| cheesesake | desert | Greece |
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
