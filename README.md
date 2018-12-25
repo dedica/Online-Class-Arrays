@@ -6,7 +6,7 @@
 | 1 |
 +---+
 Declare and assign the indexed array with your favourite food 
-(at least 4 array elements). Name the array <em><strong>food</strong><em>.
+(at least 4 array elements). Name the array <em><strong>food</strong></em>.
 */
 
 /*
