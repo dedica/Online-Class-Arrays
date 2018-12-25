@@ -82,8 +82,8 @@ Print the array from task 4 in html table:
 */
 </pre>
 
-## Table should render like this
+## Table should render like this:
 | food        | type           | origin  |
 |:------------|:---------------|:--------|
-| pizza | main course | Italy |
-| cheesecake | desert | Greece |
+| pizza       | main course    | Italy   |
+| cheesecake  | desert         | Greece  |
