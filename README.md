@@ -45,7 +45,7 @@ cheesesake:
   
 So, <em><strong>food</strong></em> is going to be an associative array. 
 Every key in <em><strong>food</strong></em> (<em><strong>pizza</strong></em>, <em><strong>cheesecake</strong></em>) will have the value
-that is associative array itself which carries the information 
+that is associative array itself and carries the information 
 about the <em><strong>type</strong></em> and <em><strong>origin</strong></em>
 */
 
