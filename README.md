@@ -14,6 +14,7 @@ Print every array element in a new line.
 */
 
 
+
 /*
 +---+
 | 2 |
@@ -50,7 +51,7 @@ cheesesake | desert
 +---+
 | 4 |
 +---+
-Break down the food to type (salad, main course, dessert, ...) 
+Break down the <em><strong>food_assoc</strong></em> from the task 3 to type (salad, main course, dessert, ...) 
 and country of origin (Italy, Spain, India, ...)
 example:
 pizza:
@@ -60,9 +61,8 @@ cheesesake:
   type:desert
   origin: Greece
   
-So, <em><strong>food</strong></em> is going to be an associative array. 
-Every key of <em><strong>food</strong></em> (<em><strong>pizza</strong></em>, <em><strong>cheesecake</strong></em>) will have the value
-that is associative array itself and carries the information 
+So, <em><strong>food_assoc</strong></em> is still going to be an associative array. 
+Every key of <em><strong>food_assoc</strong></em> (<em><strong>pizza</strong></em>, <em><strong>cheesecake</strong></em>) will now have the value that is associative array itself and carries the information 
 about the <em><strong>type</strong></em> and <em><strong>origin</strong></em>
 */
 
