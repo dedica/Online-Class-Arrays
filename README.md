@@ -31,7 +31,7 @@ Print the array elements from the previous exercise in unordered list.
 
 /*
 +---+
-| 3 |
+| 4 |
 +---+
 Break down the food to type (salad, main course, dessert, ...) 
 and country of origin (Italy, Spain, India, ...)
@@ -47,6 +47,38 @@ So, <em><strong>food</strong></em> is going to be an associative array.
 Every key in <em><strong>food</strong></em> (<em><strong>pizza</strong></em>, <em><strong>cheesecake</strong></em>) will have the value
 that is associative array itself and carries the information 
 about the <em><strong>type</strong></em> and <em><strong>origin</strong></em>
+*/
+
+/*
+Print every food, type and origin in the separate lines so it renders like this:
+pizza | main counrse | Italy
+cheesesake | desert | Greece
+*/
+
+
+
+/*
++---+
+| 5 |
++---+
+Print the array from task 4 in html table
+&lt;table&gt;
+  &lt;tr>
+    &lt;th&gt;food&lt;/th&gt;
+    &lt;th&gt;type&lt;/th&gt;
+    &lt;th&gt;origin&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;pizza&lt;/td&gt;
+    &lt;td&gt;main course&lt;/td&gt;
+    &lt;td&gt;Italy&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;cheesecake&lt;/td&gt;
+    &lt;td&gt;desert&lt;/td&gt;
+    &lt;td&gt;Greece&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
 */
 
 /*
