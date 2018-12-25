@@ -62,8 +62,8 @@ cheesesake:
   origin: Greece
   
 So, <em><strong>food_assoc</strong></em> is still going to be an associative array. 
-Every key of <em><strong>food_assoc</strong></em> (<em><strong>pizza</strong></em>, <em><strong>cheesecake</strong></em>) will now have the value that is associative array itself and carries the information 
-about the <em><strong>type</strong></em> and <em><strong>origin</strong></em>
+Every key of <em><strong>food_assoc</strong></em> (<em><strong>pizza</strong></em>, <em><strong>cheesecake</strong></em>) will now have the value that is associative array itself 
+and carries the information about the <em><strong>type</strong></em> and <em><strong>origin</strong></em>
 */
 
 /*
