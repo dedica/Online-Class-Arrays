@@ -53,13 +53,13 @@ cheesesake | desert
 +---+
 Break down the <em><strong>food_assoc</strong></em> from the task 3 to type (salad, main course, dessert, ...) 
 and country of origin (Italy, Spain, India, ...)
-example:
-pizza:
-  type: main course
-  origin: Italy
-cheesesake: 
-  type:desert
-  origin: Greece
+food_assoc:
+  pizza:
+    type: main course
+    origin: Italy
+  cheesesake: 
+    type:desert
+    origin: Greece
   
 So, <em><strong>food_assoc</strong></em> is still going to be an associative array. 
 Every key of <em><strong>food_assoc</strong></em> (<em><strong>pizza</strong></em>, <em><strong>cheesecake</strong></em>) will now have the value that is associative array itself 
