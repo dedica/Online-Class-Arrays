@@ -6,7 +6,7 @@
 | 1 |
 +---+
 Declare and assign the indexed array with your favourite food 
-(at least 4 array elements).
+(at least 4 array elements). Name the array <em><strong>food</strong><em>.
 */
 
 /*
@@ -25,6 +25,23 @@ Print the array elements from the previous exercise in unordered list.
   &lt;li&gt;...&lt;/li&gt;
   &lt;li&gt;...&lt;/li&gt;
 &lt;/ul&gt;
+*/
+
+
+
+/*
++---+
+| 3 |
++---+
+Turn the indexed array <em><strong>food</strong><em> from task 1 into associative array named <em><strong>food_assoc</strong><em>. 
+Every array element of <em><strong>food</strong><em> becomes the key of <em><strong>food_assoc</strong><em>.
+Every key of <em><strong>food_assoc</strong><em> has the value that describes the type of food (salad, main course or dessert).
+*/
+
+/*
+Print every food and type in the separate lines so it renders like this:
+pizza | main counrse 
+cheesesake | desert 
 */
 
 
@@ -86,4 +103,4 @@ Print the array from task 4 in html table:
 | food        | type           | origin  |
 |:------------|:---------------|:--------|
 | pizza       | main course    | Italy   |
-| cheesecake  | desert         | Greece  |
+| cheesecake  | dessert        | Greece  |
