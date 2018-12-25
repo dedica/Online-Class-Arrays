@@ -18,13 +18,22 @@ Print every array element in a new line.
 +---+
 | 2 |
 +---+
-Print the array elements from the above in unordered list.
+Print the array elements from the previous exercise in unordered list.
 &lt;ul&gt;
   &lt;li&gt;...&lt;/li&gt;
   &lt;li&gt;...&lt;/li&gt;
   &lt;li&gt;...&lt;/li&gt;
   &lt;li&gt;...&lt;/li&gt;
 &lt;/ul&gt;
+*/
+
+
+
+/*
++---+
+| 3 |
++---+
+
 */
 
 </pre>
