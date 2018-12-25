@@ -33,9 +33,9 @@ Print the array elements from the previous exercise in unordered list.
 +---+
 | 3 |
 +---+
-Turn the indexed array <em><strong>food</strong><em> from task 1 into associative array named <em><strong>food_assoc</strong><em>. 
-Every array element of <em><strong>food</strong><em> becomes the key of <em><strong>food_assoc</strong><em>.
-Every key of <em><strong>food_assoc</strong><em> has the value that describes the type of food (salad, main course or dessert).
+Turn the indexed array <em><strong>food</strong></em> from task 1 into associative array named <em><strong>food_assoc</strong></em>. 
+Every array element of <em><strong>food</strong></em> becomes the key of <em><strong>food_assoc</strong></em>.
+Every key of <em><strong>food_assoc</strong></em> has the value that describes the type of food (salad, main course or dessert).
 */
 
 /*
