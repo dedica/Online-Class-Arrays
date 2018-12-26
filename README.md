@@ -15,6 +15,10 @@ Print every array element in a new line.
 
 
 
+
+// task separator
+echo "&lt;hr style=\"margin 1rem 0\"&gt;";
+
 /*
 +---+
 | 2 |
@@ -29,6 +33,10 @@ Print the array elements from the previous exercise in unordered list.
 */
 
 
+
+
+// task separator
+echo "&lt;hr style=\"margin 1rem 0\"&gt;";
 
 /*
 +---+
@@ -46,6 +54,10 @@ cheesesake | desert
 */
 
 
+
+
+// task separator
+echo "&lt;hr style=\"margin 1rem 0\"&gt;";
 
 /*
 +---+
@@ -73,6 +85,10 @@ cheesesake | desert | Greece
 */
 
 
+
+
+// task separator
+echo "&lt;hr style=\"margin 1rem 0\"&gt;";
 
 /*
 +---+
